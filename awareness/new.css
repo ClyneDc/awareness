@@ -1,0 +1,380 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.main{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(/pexels-photo-10897817.webp);
+    background-size: cover;
+}
+.navbar{
+    height: 8%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    
+}
+.navbar i{
+    font-size: 20px;
+    margin: 2%;
+}
+.navbar h5{
+    font-size: 10px;
+    margin-left: 3%;
+    margin-top: 2%;
+    color: aqua;
+}
+.navbar h3{
+    font-size: 30px;
+    margin-top: 1%;
+    margin-left: 15%;
+}
+.navbar input{
+    height: 20%;
+    width: 20%;
+    margin-top: 2%;
+    margin-right: 1%;
+}
+.content{
+    height: 40%;
+    width: 100%;
+    display: flex;
+}
+.content img{
+    height: 100%;
+    width: 25%;
+    margin-left: 9%;
+    
+}
+.content h3{
+    font-size: 40px;
+    margin-left: 10%;
+    text-align: center;
+    margin-top: 5%;
+    
+}
+.content1{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    margin-top: 2%;
+    justify-content: space-evenly;
+}
+.content1x{
+    height: 100%;
+    width: 40%;
+    
+}
+.content1xx{
+    height: 100%;
+    width: 40%;
+}
+.content1x h3{
+    font-size: 20px;
+    color: cadetblue;
+    margin: 2%;
+}
+.content1x p{
+   text-align: center;
+   color: rgba(47, 41, 23, 0.835);
+   margin-right: 20%;
+}
+.content1xx h3{
+    font-size: 20px;
+    margin-left: 25%;
+    color: cadetblue;
+    margin-top: 2%;
+    
+}
+.content1xx p{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.758);
+    margin: 2%;
+    margin-left: 30%;
+
+}
+.content1x h2{
+    font-size: 30px;
+    margin: 2%;
+    color: cadetblue;
+}
+.content1x li{
+    font-size: 15px;
+    margin: 2%;
+    color: rgba(0, 0, 0, 0.759);
+}
+.content1xx h2{
+    font-size: 30px;
+    margin: 2%;
+    margin-left: 25%;
+    color: cadetblue;
+}
+.content1xx li{
+    font-size:  15px;
+    margin: 2%;
+    margin-left: 25%;
+    color: rgba(0, 0, 0, 0.756);
+}
+.content1xx button{
+    height: 5%;
+    width: 20%;
+    margin-left: 25%;
+    border: none;
+    color: tomato;
+}
+.content1x h4{
+    font-size: 20px;
+    margin-left: 2%;
+    color: cadetblue;
+}
+.content1x ol{
+    font-size: 15px;
+    margin: 1.1%;
+    margin-left: 2%;
+    color: rgba(0, 0, 0, 0.754);
+    
+}
+.main2{
+    height: 100vh;
+    width: 100vw;
+
+
+}
+.context{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    margin-top: 5%;
+    justify-content: space-between;
+   
+}
+.context1{
+    height: 100%;
+    width: 35%;
+    
+}
+.context1 img{
+    height: 100%;
+   
+}
+.context2{
+    height: 100%;
+    width: 20%;
+    
+   
+}
+.context3{
+    height: 100%;
+    width: 35%;
+    
+}
+.context2 img{
+    height: 100%;
+
+}
+.context2 i{
+    height: 20%;
+    width: 30%;
+}
+
+.context3 img{
+    height: 100%;
+}
+.context2 h3{
+    font-size: 20px;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 10%;
+}
+.context2 li{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 15%;
+    text-align: center;
+}
+
+.Min{
+    height: 100vh;
+    width: 100vw;
+}
+.min{
+    height: 7%;
+    width: 100%;
+    margin-top: 15%;
+}
+.min h3{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(184, 66, 11);
+    text-align: center;
+}
+.Min0{
+    height: 93%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1%;
+}
+.Min1{
+    height: 100%;
+    width: 30%;
+}
+.Min2{
+    height: 100%;
+    width: 35%;
+   
+}
+.Min3{
+    height: 100%;
+    width: 30%;
+    
+}
+.Min1 h4{
+    font-size: 40px;
+    margin: 20px;
+    color: coral;
+    
+}
+.Min1 p{
+    font-size: 20px;
+    text-align: center;
+    color: grey;
+}
+.Min2 img{
+    height: 90%;
+    border-radius: 60%;
+    border: rgba(0, 0, 0, 0.651) 10px solid;
+}
+.Min3 h4{
+    font-size: 40px;
+    margin: 30px;
+    color: coral;
+    
+}
+.Min3 p{
+    font-size: 20px;
+    text-align: center;
+    color: grey;
+}
+
+.Memo{
+    height: 100vh;
+    width: 100vw;
+}
+.memobar{
+    height: 7%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 15%;
+}
+.memobar h4{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 1.2%;
+    margin-left: 5%;
+    color: yellowgreen;
+
+}
+.memobar p{
+    font-size: 20px;
+    justify-content: space-evenly;
+    text-align: center;
+    margin: 2%;
+    margin-left: 10%;
+    color: olivedrab;
+}
+.memobar button{
+    height: 40%;
+    width: 10%;
+    margin: 2%;
+    margin-left: 10%;
+    border-radius: 20px;
+    border: none;
+    background-color: azure;
+    font-weight: 800;
+    
+}
+.Memo1{
+    height: 93%;
+    width: 100%;
+    
+}
+.Memo2{
+    height: 70%;
+    width: 100%;
+    background-color: beige;
+    display: flex;
+    margin-top: 2%;
+}
+.Memo3{
+    height: 100%;
+    width: 60%;
+    background-color: beige;
+}
+.Memo4{
+    height: 100%;
+    width: 40%;
+}
+.Memo4 img{
+    height: 90%;
+    width: 80%;
+    border-radius: 70%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.Memo3 h3{
+    font-size: 60px;
+    font-weight: 800;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 3%;
+}
+.Memo3 p{
+    font-size: 15px;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 2.5%;
+    color: rgba(0, 0, 0, 0.756);
+}
+.Memo3 button{
+    height: 10%;
+    width: 20%;
+    margin: 5%;
+    border-radius: 40px;
+    border: none;
+    background-color: rgba(0, 0, 255, 0.631);
+    font-weight: 800;
+    color: azure;
+}
+.Memo3 input{
+    height: 10%;
+    width: 20%;
+    margin: 5%;
+    border-radius: 30px;
+    border: none;
+    font-weight: 900;
+    text-align: center;
+}
+.Memo3 h4{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: darkolivegreen;
+}
+.Memo3 h5{
+    font-size: 20px;
+   text-align: center;
+    margin: 3%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkkhaki;
+}
+.Memo3 h6{
+    font-size: 30px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkslategrey;
+
+}
